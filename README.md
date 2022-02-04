@@ -6,7 +6,7 @@ This repository will be an excellent source to search through when necessary,
 
 Starting to see classes just like h1, h2 to h6 just adding these classes in a `<h4>` e.g tag it turns to the respective one. 
 
-Note: This repository is based on Bootstrap 4. So, some resources are adapted to work accordin the most updated one. 
+Note: This repository is based on Bootstrap 4. So, some resources are adapted to work according to the most updated one. 
 
 > HEADINGS
 
