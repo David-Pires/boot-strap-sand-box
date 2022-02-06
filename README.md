@@ -405,3 +405,15 @@ _**class="d-inline-block bg-success"**_
 
     <p>There is something invisible right bellow</p>
     <p class="invisible">Hello</p> 
+
+# Spacing #
+
+ >  BACKGROUND COLORS
+
+
+        <h1 class="bg-success mb-0">Margin Bottom 0</h1>
+        <h1 class="bg-success mb-1">Margin Bottom 1</h1>
+        <h1 class="bg-success mb-2">Margin Bottom 2</h1>
+        <h1 class="bg-success mb-3">Margin Bottom 3</h1>
+        <h1 class="bg-success mb-4">Margin Bottom 4</h1>
+        <h1 class="bg-success mb-5">Margin Bottom 5</h1>
