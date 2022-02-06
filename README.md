@@ -392,4 +392,13 @@ _**class="d-inline-block bg-success"**_
     <p class="text-dark">Text Dark Color</p>
     <p class="text-secondary">Text White Color</p>
         
+ >  BACKGROUND COLORS
+
+    <div class="bg-primary text-white">Background Primary Color</div>
+    <div class="bg-success text-white">Background Secondary Color</div>
+    <div class="bg-info text-white">Background Success Color</div>
+    <div class="bg-danger text-white">Background Info Color</div>
+    <div class="bg-dark text-white">Background Warning Color</div>
+    <div class="bg-light text-dark">Background Danger Color</div>
+    
     
