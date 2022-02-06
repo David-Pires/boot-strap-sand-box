@@ -435,3 +435,68 @@ _**class="d-inline-block bg-success"**_
         <p>Lorem ipsum dolor sit amet, consectetur elit. Voluptatum, optio.</p>
         <p class="bg-success my-5">Margin Top & Bottom 5</p>
         <p>Lorem ipsum dolor sit amet, consectetur elit. Voluptatum, optio.</p>
+
+
+> BLANK - ALL SIDES
+
+
+        <p>Lorem ipsum dolor sit amet, consectetur elit. Voluptatum, optio.</p>
+        <p class="bg-success m-5">Margin All Sides 5</p>
+        <p>Lorem ipsum dolor sit amet, consectetur elit. Voluptatum, optio.</p>
+
+       
+
+> PB PADDING BOTTOM
+> 
+        <h1 class="bg-warning pb-0">Padding Bottom 0</h1>
+        <h1 class="bg-warning pb-1">Padding Bottom 1</h1>
+        <h1 class="bg-warning pb-2">Padding Bottom 2</h1>
+        <h1 class="bg-warning pb-3">Padding Bottom 3</h1>
+        <h1 class="bg-warning pb-4">Padding Bottom 4</h1>
+        <h1 class="bg-warning pb-5">Padding Bottom 5</h1>
+
+        
+
+> PT PADDING TOP
+
+
+        <h1 class="bg-warning pt-0">Padding Top 0</h1>
+        <h1 class="bg-warning pt-1">Padding Top 1</h1>
+        <h1 class="bg-warning pt-2">Padding Top 2</h1>
+        <h1 class="bg-warning pt-3">Padding Top 3</h1>
+        <h1 class="bg-warning pt-4">Padding Top 4</h1>
+        <h1 class="bg-warning pt-5">Padding Top 5</h1>
+
+        
+> PL & PR
+
+
+        <p><span class="bg-warning pr-5">Padding Right 5</span> dolor sit amet, <span class="bg-warning pl-3">Padding Left 3 </span> elit. Voluptatum, optio.</p>
+
+        
+
+> PX PADDING LEFT RIGHT
+
+
+        <p>Lorem ipsum<span class="bg-warning px-5">Padding Left & Right 5</span>, consectetur elit. Voluptatum, optio.</p>
+
+        
+
+> PADDING TOP BOTTOM
+
+
+        <p class="bg-warning py-5">Padding Top & Bottom 5</p>
+
+
+> BLANK - ALL SIDES
+
+
+        <p class="bg-warning p-5">Padding All Sides 5</p>
+        
+
+> CENTER ALIGN
+    
+    
+        <div style="width: 200px;">
+          Center Align
+        </div>
