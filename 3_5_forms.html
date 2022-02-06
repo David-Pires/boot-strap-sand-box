@@ -83,34 +83,34 @@
 
         <!-- FORM -->
         <form>
-            <div>
+            <div class="form-group">
                 <label for="name">Name</label>
-                <input type="text" id="name" placeholder="Enter name">
+                <input type="text" class="form-control form-control-sm" id="name" placeholder="Enter name">
             </div>
-            <div>
+            <div class="form-group">
                 <label for="email">Email address</label>
-                <input type="email" id="email" placeholder="Enter email">
-                <small>Your email will not be shared with anyone</small>
+                <input type="email" id="email" class="form-control form-control-lg" placeholder="Enter email">
+                <small class="form-text text-muted">Your email will not be shared with anyone</small>
             </div>
-            <div>
+            <div class="form-group">
                 <label for="password">Password</label>
-                <input type="password" id="password" placeholder="Password" readonly>
+                <input type="password" id="password" class="form-control" placeholder="Password" readonly>
             </div>
-            <div>
+            <div class="form-group">
                 <label for="gender">Gender</label>
-                <select id="gender">
+                <select id="gender" class="form-control">
                 <option>Male</option>
                 <option>Female</option>
                 </select>
             </div>
-            <div>
+            <div class="form-group">
                 <label for="message">Message</label>
-                <textarea id="message" rows="3"></textarea>
+                <textarea id="message" rows="3" class="form-control"></textarea>
             </div>
-            <div>
+            <div class="form-group">
                 <label for="file">File input</label>
-                <input type="file" id="file">
-                <small id="fileHelp">Max 3mb size</small>
+                <input type="file" id="file" class="form-control-file ">
+                <small class="form-text text-muted "id="fileHelp">Max 3mb size</small>
             </div>
 
             <!-- FORM CHECK -->
