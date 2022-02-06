@@ -408,7 +408,7 @@ _**class="d-inline-block bg-success"**_
 
 # Spacing #
 
- >  BACKGROUND COLORS
+ >  MB MARGIN BOTTOM
 
 
         <h1 class="bg-success mb-0">Margin Bottom 0</h1>
@@ -417,3 +417,13 @@ _**class="d-inline-block bg-success"**_
         <h1 class="bg-success mb-3">Margin Bottom 3</h1>
         <h1 class="bg-success mb-4">Margin Bottom 4</h1>
         <h1 class="bg-success mb-5">Margin Bottom 5</h1>
+
+ > ML & MR
+
+
+        <p><span class="bg-success mr-5">Margin Right 5</span> dolor sit amet, <span class="bg-success ml-                  3">Margin Left 3 </span> elit. Voluptatum, optio.</p>
+        
+  > MX MARGIN LEFT RIGHT
+
+
+        <p>Lorem ipsum<span class="bg-success mx-5">Margin Left & Right 5</span>, consectetur elit. Voluptatum, optio.</p>
