@@ -401,4 +401,7 @@ _**class="d-inline-block bg-success"**_
     <div class="bg-dark text-white">Background Warning Color</div>
     <div class="bg-light text-dark">Background Danger Color</div>
     
-    
+ >  INVISIBLE
+
+    <p>There is something invisible right bellow</p>
+    <p class="invisible">Hello</p> 
