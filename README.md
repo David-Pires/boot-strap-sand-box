@@ -427,3 +427,11 @@ _**class="d-inline-block bg-success"**_
 
 
         <p>Lorem ipsum<span class="bg-success mx-5">Margin Left & Right 5</span>, consectetur elit. Voluptatum, optio.</p>
+        
+
+> MY  MARGIN TOP BOTTOM
+
+
+        <p>Lorem ipsum dolor sit amet, consectetur elit. Voluptatum, optio.</p>
+        <p class="bg-success my-5">Margin Top & Bottom 5</p>
+        <p>Lorem ipsum dolor sit amet, consectetur elit. Voluptatum, optio.</p>
