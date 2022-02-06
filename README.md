@@ -375,3 +375,19 @@ _**class="d-inline-block bg-success"**_
 
 
         <h3 class="fixed-bottom">Fixed Bottom</h3>
+        
+        
+ >  TEXT COLORS
+
+
+    <p class="text-muted">Text Primary Color</p>
+    <p class="text-primary">Text Secondary Color</p>
+    <p class="text-success">Text Success Color</p>
+    <p class="text-info">Text Info Color</p>
+    <p class="text-warning">Text Warning Color</p>
+    <p class="text-danger">Text Danger Color</p>
+    <p class="text-info">Text Light Color</p>
+    <p class="text-dark">Text Dark Color</p>
+    <p class="text-secondary">Text White Color</p>
+        
+    
