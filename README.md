@@ -19,7 +19,7 @@ Note: This repository is based on Bootstrap 4. So, some resources are adapted to
 
     <h1>Heading One<small class="text-muted"> Something</small></h1>
     
-    <h2>Heading Two</h2>
+    <h2>Heading Two </h2>
     
     <h3 class="h1">Heading Three</h3>
     
