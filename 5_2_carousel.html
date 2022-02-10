@@ -187,11 +187,11 @@
     <h1 class="text-center text-info mb-5">Slider with Captions</h1>
 
 
-    <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+    <div id="slider4" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
-        <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-        <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-        <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+        <li data-target="#slider4" data-slide-to="0" class="active"></li>
+        <li data-target="#slider4" data-slide-to="1"></li>
+        <li data-target="#slider4" data-slide-to="2"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -284,11 +284,20 @@
 
 <script>
   $('.carousel').carousel({
-    interval: 1000,
+    interval: 5000,
     keyboard: true,
     pause: 'hover',
-    wrap:false,
+    wrap:true,
   });
+
+  $('#slider4').on('slide.bs.carousel', function(){
+    console.log('slide');
+  });
+
+  $('#slider4').on('slid.bs.carousel', function(){
+    console.log('completed');
+  });
+
 </script>
 </body>
 </html>
