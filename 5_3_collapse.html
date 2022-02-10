@@ -82,28 +82,28 @@
     <!--########################START HERE#########################-->
 
     <!-- BUTTON WITH COLLAPSE -->
-    <button>Read More</button>
+    <button class="btn btn-primary d-block mb-4" data-toggle="collapse" data-target="#collapse-btn-1">Read More</button>
 
-    <div>
-      <div>
-        <div>
+    <div class="collapse" id="collapse-btn-1">
+      <div class="card">
+        <div class="card-block">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit eius libero quisquam nobis explicabo vel non necessitatibus ipsum doloribus cupiditate voluptate recusandae quo autem error debitis, sed, minima repellendus commodi.
         </div>
       </div>
     </div>
 
     <!-- ACCORDION -->
-    <div>
-      <div>
-        <div>
-          <h5><a href="#">
-            Collapse One
-          </a></h5>
+      <div id="accordion" role="tablist">
+        <div class="card-header" role="tab" id="heading">
+          <h5 class="mb-0">
+            <a href="#collapse1" data-parent="#accordion" data-toggle="collapse">
+              Collapse One
+            </a>
+          </h5>
         </div>
-
-        <div>
-          <div>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis ea iste a doloremque, cumque, debitis eum vel ipsum architecto aut, recusandae totam ullam aperiam. Nesciunt expedita officiis animi quam corporis optio inventore facilis sint et nulla in, repellat debitis dolor at nisi quo, unde temporibus. Quos nisi nostrum officia, illo.
+        <div id="collapse1" class="collapse">
+          <div class="card-block">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. A, veritatis? Sequi quasi sed possimus! Provident itaque doloribus alias, animi maxime natus quod maiores perferendis, quis enim, eius non dolor ab.
           </div>
         </div>
       </div>
