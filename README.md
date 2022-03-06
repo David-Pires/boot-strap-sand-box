@@ -11,7 +11,7 @@ Starting to see classes just like h1, h2 to h6 just adding these classes in a `<
 
 Note: This repository is based on Bootstrap 4. So, some resources are adapted to work according to the most updated one. 
 
-> HEADINGS
+> HEADINGS for 
 
 **_class="h"_**
 
